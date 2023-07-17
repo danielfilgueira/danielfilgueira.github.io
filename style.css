@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@200&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Public Sans', sans-serif;
+}
+header {
+    background-color: #fafafa;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: #94dda9 1px solid;
+}
+nav {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    
+}
+.in1, .in2 {
+    width: 300px;
+}
+.prog1, .prog2 {
+    width: 340px;
+}
+
+button {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 14px;
+    background-image: linear-gradient(90deg, #31d35c, #2bb7da);
+}
+a {
+    color: #9698a6;
+    text-decoration: none;
+}
+a:hover {
+    transition: 0.4s;
+    color: #9698a688; 
+}
+.desenvolvimento {
+    border: 5px solid red;
+
+    
+}
+.inicio1 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px    ;
+    border: #94dda9 1px solid;
+}
+.pintura {
+    border: #c4fad3 1px solid;
+    width: 100%;
+    height: 50px;
+    background-color: #c4fad3;
+}
+.borda1 {
+    color: #030303;
+
+}
+.borda2 {
+    color: #030303;
+
+}
+.borda3 {
+    color: #030303;
+
+}
+.borda4 {
+    color: #030303;
+
+}
+.borda5 {
+    color: #030303;
+
+}
+.borda6 {
+    color: #030303;
+}
+.borda7 {
+    color: #030303;
+
+}
+.borda8 {
+    color: #030303;
+
+}
+.borda9 {
+    color: #030303;
+}
+.borda10 {
+    color: #030303;
+
+}
+.comercial {
+    padding-left: 30px;
+    padding-top: 30px;
+    display: flex;
+
+}
+.img--comercial {
+}
+h1 {
+    text-align: center;
+    color: #6366f1;
+}
+.inicio {
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    flex-direction: column;
+}
+.desen {
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
+    background-color: #c4fad3;
+}
+.a1 {
+    text-align: center;
+}
+.imagem_inicial {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding: 15px;
+}
+.titulo {
+    padding: 25px;
+    color: #6366f1;
+    border-bottom: 3px solid #6366f1 ;
+}
+p {
+    padding: 20px;
+}
+.img5 {
+    text-align: center;
+    margin: auto 0;
+}
+.simimg {
+    width: 80px;
+}
+h3 {
+    text-align: center;
+}
+.final {
+    background-color: #E6E6FA;
+    border-top: 3px solid #6366f1;
+}
+.funds {
+    text-align: center;
+}
+.legall {
+    text-align: center;
+}
+h4 {
+    padding-top: 30px;
+}
+
+
+
+
+
+
+ 
+
+
+
